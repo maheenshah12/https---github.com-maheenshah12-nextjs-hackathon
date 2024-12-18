@@ -42,7 +42,7 @@ const [menuOpen, setMenuOpen] = useState(false);
     <div className="font-extrabold font-font text-2xl lg:text-[32px] mb-2 mr-3 lg:mr-10">
            <Link href={"/"}>SHOP.CO</Link> 
           </div>
-
+className
           {/* navigation links */}
           <ul className="hidden lg:flex gap-6 items-center font-normal text-[16px]">
             <Link href={"/"} className="flex items-center gap-2 hover:underline  hover:text-gray-700 transition duration-200">Shop<FaAngleDown/></Link>

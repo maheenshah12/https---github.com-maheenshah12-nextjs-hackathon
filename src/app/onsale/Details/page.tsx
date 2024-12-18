@@ -215,7 +215,7 @@ const [selectedImage, setSelectedImage] = useState<typeof page2shirt>(page2shirt
   <Image src={greencheek} alt=""/>
 </div>
 {/* para */}
-<p className='text-sm sm:text-base text-gray-800'>"Finding clothes that align with my personal style used to be a challenge until I discovered Taha Sidd. The range of options they offer is truly remarkable, catering to a variety of tastes and occasions.”</p>
+<p className='text-sm sm:text-base text-gray-800'>&quot;Finding clothes that align with my personal style used to be a challenge until I discovered Taha Sidd. The range of options they offer is truly remarkable, catering to a variety of tastes and occasions.&quot;</p>
 {/* last line */}
 <p className='text-gray-800 text-sm font-medium mt-4 sm:mt-6'>Posted on August 14,2023</p>
 </div>
@@ -233,7 +233,7 @@ const [selectedImage, setSelectedImage] = useState<typeof page2shirt>(page2shirt
   <Image src={greencheek} alt=""/>
 </div>
 {/* para */}
-<p className='text-sm sm:text-base text-gray-800'>"The t-shirt exceeded my expectations! The colors are vibrant and the print quality is top-notch. Being a UI/UX designer myself, I'm quite picky about aesthetics, and this t-shirt definitely gets a thumbs up from me."</p>
+<p className='text-sm sm:text-base text-gray-800'>&quot;The t-shirt exceeded my expectations! The colors are vibrant and the print quality is top-notch. Being a UI/UX designer myself, I&apos;m quite picky about aesthetics, and this t-shirt definitely gets a thumbs up from me.&quot;</p>
 {/* last line */}
 <p className='text-gray-800 text-sm font-medium mt-4 sm:mt-6'>Posted on August 15,2023</p>
 </div>
@@ -251,7 +251,7 @@ const [selectedImage, setSelectedImage] = useState<typeof page2shirt>(page2shirt
   <Image src={greencheek} alt=""/>
 </div>
 {/* para */}
-<p className='text-sm sm:text-base text-gray-800'>"This t-shirt is a must-have for anyone who appreciates good design. The minimalistic yet stylish pattern caught my eye, and the fit is perfect. I can see the designer's touch in every aspect of this shirt."</p>
+<p className='text-sm sm:text-base text-gray-800'>&quot;This t-shirt is a must-have for anyone who appreciates good design. The minimalistic yet stylish pattern caught my eye, and the fit is perfect. I can see the designer&apos;s touch in every aspect of this shirt.&quot;</p>
 {/* last line */}
 <p className='text-gray-800 text-sm font-medium mt-4 sm:mt-6'>Posted on August 16,2023</p>
 </div>
@@ -269,7 +269,7 @@ const [selectedImage, setSelectedImage] = useState<typeof page2shirt>(page2shirt
   <Image src={greencheek} alt=""/>
 </div>
 {/* para */}
-<p className='text-sm sm:text-base text-gray-800'>""As a UI/UX enthusiast, I value simplicity and functionality. This t-shirt not only represents those principles but also feels great to wear. It's evident that the designer poured their creativity into making this t-shirt stand out."</p>
+<p className='text-sm sm:text-base text-gray-800'>&quot;As a UI/UX enthusiast, I value simplicity and functionality. This t-shirt not only represents those principles but also feels great to wear. It&apos;s evident that the designer poured their creativity into making this t-shirt stand out.&quot;</p>
 {/* last line */}
 <p className='text-gray-800 text-sm font-medium mt-4 sm:mt-6'>Posted on August 17,2023</p>
 </div>
@@ -287,7 +287,7 @@ const [selectedImage, setSelectedImage] = useState<typeof page2shirt>(page2shirt
   <Image src={greencheek} alt=""/>
 </div>
 {/* para */}
-<p className='text-sm sm:text-base text-gray-800'>"This t-shirt is a fusion of comfort and creativity. The fabric is soft, and the design speaks volumes about the designer's skill. It's like wearing a piece of art that reflects my passion for both design and fashion."</p>
+<p className='text-sm sm:text-base text-gray-800'>&quot;This t-shirt is a fusion of comfort and creativity. The fabric is soft, and the design speaks volumes about the designer&apos;s skill. It&apos;s like wearing a piece of art that reflects my passion for both design and fashion.&quot;</p>
 {/* last line */}
 <p className='text-gray-800 text-sm font-medium mt-4 sm:mt-6'>Posted on August 18,2023</p>
 </div>
@@ -305,7 +305,7 @@ const [selectedImage, setSelectedImage] = useState<typeof page2shirt>(page2shirt
   <Image src={greencheek} alt=""/>
 </div>
 {/* para */}
-<p className='text-sm sm:text-base text-gray-800'>"I'm not just wearing a t-shirt; I'm wearing a piece of design philosophy. The intricate details and thoughtful layout of the design make this shirt a conversation starter."</p>
+<p className='text-sm sm:text-base text-gray-800'>&quot;I&apos;m not just wearing a t-shirt; I&apos;m wearing a piece of design philosophy. The intricate details and thoughtful layout of the design make this shirt a conversation starter.&quot;</p>
 
 
 {/* last line */}
